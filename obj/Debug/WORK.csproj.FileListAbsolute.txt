@@ -1,0 +1,7 @@
+C:\Users\kkbbg\OneDrive\桌面\測試作業\WORK\WORK\bin\Debug\WORK.exe.config
+C:\Users\kkbbg\OneDrive\桌面\測試作業\WORK\WORK\bin\Debug\WORK.exe
+C:\Users\kkbbg\OneDrive\桌面\測試作業\WORK\WORK\bin\Debug\WORK.pdb
+C:\Users\kkbbg\OneDrive\桌面\測試作業\WORK\WORK\obj\Debug\WORK.csprojAssemblyReference.cache
+C:\Users\kkbbg\OneDrive\桌面\測試作業\WORK\WORK\obj\Debug\WORK.csproj.CoreCompileInputs.cache
+C:\Users\kkbbg\OneDrive\桌面\測試作業\WORK\WORK\obj\Debug\WORK.exe
+C:\Users\kkbbg\OneDrive\桌面\測試作業\WORK\WORK\obj\Debug\WORK.pdb
